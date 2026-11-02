@@ -1,5 +1,8 @@
 void setup()
 {
-background(234,118,118);
-rect(150,200,45,60);
+  size(600,500);
+  background(250,192,192);
+  circle(60, 60, 40);
+  circle(60, 105, 40);
+  
 }
