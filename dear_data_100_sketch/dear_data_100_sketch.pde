@@ -12,4 +12,10 @@ void draw() {
   textSize(28);
   textAlign(CENTER);
   text("My spotify listening habits", width/2,50);
+  //desc
+  textSize(15);
+  text("Dear data 100 - Creative coding", width/2, 80);
+  
+  
+
 }
